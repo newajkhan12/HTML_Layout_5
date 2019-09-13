@@ -1,0 +1,64 @@
+.main-body{
+	background-color: black;}
+
+
+.logo{
+	background-color: grey;
+	height: 70px;
+	width: 100%;
+	margin-bottom: 5px;
+}
+
+h1{padding-top: 10px;}
+
+.wrapper{overflow: hidden;
+height: 600px;}
+
+.sidebar{
+	height: 100%;
+	width: 20%;
+	float: left;
+	margin-top: 5px;
+}
+
+
+
+.banner{
+	height: 20%;
+	background-color: grey;
+	width: 75%;
+	float: right;
+margin-top: 5px;
+text-align: center;
+
+}
+
+
+
+
+.body{
+	height: 80%;
+	background-color: grey;
+	width: 75%;
+	float: right;
+	margin-top: 10px;
+	text-align: center;
+	padding-top: 190px;
+}
+
+ h1, h2, h3, h4{font-size: 30px;
+ 	color:white;}
+
+
+
+h4{
+	padding-top: 5px;
+}
+
+
+.footer{
+	background-color: grey;
+	height: 50px;
+	width: 100%;
+	text-align: center;
+}
